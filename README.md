@@ -1,0 +1,1 @@
+This repository is about building a fully functional ATM Interface using python. The interface has various features like Money withdrawal, Money deposit ,etc. and allows the user to experience features of an ATM by giving their acc number and pin code.
